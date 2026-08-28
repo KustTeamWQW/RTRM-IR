@@ -1,2 +1,5 @@
-# ViFPM
+# RTRM-IR: RGB-Texture-Guided Infrared Image Enhancement with Thermal Radiance Modeling
+
+This repository contains the official project page for **RTRM-IR: RGB-texture-guided infrared image enhancement with thermal radiance modeling**.
+
 Currently, the code for this project is not publicly available as we are awaiting the publication of the related paper. Once the paper is successfully published, we will release the code immediately for use by researchers and developers. Thank you for your attention and support!
