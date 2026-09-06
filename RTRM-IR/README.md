@@ -57,6 +57,6 @@ D:\Environment_2023\Anaconda3\envs\py3.7
 Package versions exported from that environment are stored in:
 
 ```text
-requirements-py37.txt
+../requirements-py37.txt
 environment-py37.yml
 ```
