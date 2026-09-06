@@ -1,4 +1,4 @@
-# RTRM-IR: RGB-Texture-Guided Infrared Image Enhancement with Thermal Radiance Modeling
+# RTRM-IR
 
 ## Environment
 
