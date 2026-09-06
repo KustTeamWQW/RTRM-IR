@@ -1,0 +1,38 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Training outputs
+checkpoints/
+logs/
+results/
+experiments/**/checkpoints/
+experiments/**/logs/
+experiments/**/code/**/web/
+experiments/**/code/**/runs/
+experiments/**/code/**/wandb/
+
+# Datasets and generated preprocessing caches
+datasets1/
+datasets2/
+**/preprocess_cache/
+**/processed/
+
+# Large model artifacts
+*.pth
+*.pt
+*.onnx
+*.ckpt
+
+# Local editor/runtime files
+.codex_tmp/
+.agents/
+.claude/
+.vscode/
+.idea/
+*.log
+*.tmp
+
+# Figures generated during experiments can be large; keep source diagrams manually if needed.
+figures/*.png
