@@ -1,9 +1,5 @@
 # RTRM-IR: RGB-Texture-Guided Infrared Image Enhancement with Thermal Radiance Modeling
 
-This repository contains the official project page for **RTRM-IR: RGB-texture-guided infrared image enhancement with thermal radiance modeling**.
-
-The runnable project code is provided in the `RTRM-IR/` directory. The training data is not included in this repository.
-
 ## Environment
 
 The project was tested with the local conda environment `py3.7`:
