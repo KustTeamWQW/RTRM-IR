@@ -25,15 +25,3 @@ conda create -n py3.7 python=3.7.1 pip=22.3.1
 conda activate py3.7
 pip install -r RTRM-IR/requirements-py37.txt
 ```
-
-On the original Windows training machine, the training launcher uses:
-
-```text
-D:\Environment_2023\Anaconda3\envs\py3.7\python.exe
-```
-
-If your conda environment is installed elsewhere, update `$envPath` in:
-
-```text
-RTRM-IR/reproduce/launch_datasets1_v77_from_checkpoint_params.ps1
-```
