@@ -45,3 +45,18 @@ Testing and deployment use infrared inputs only.
 
 Large generated files are ignored by `.gitignore`, including datasets,
 checkpoints, logs, preprocessing caches, and Python cache files.
+
+## Environment
+
+The training scripts are configured for the local `py3.7` environment at:
+
+```text
+D:\Environment_2023\Anaconda3\envs\py3.7
+```
+
+Package versions exported from that environment are stored in:
+
+```text
+requirements-py37.txt
+environment-py37.yml
+```
