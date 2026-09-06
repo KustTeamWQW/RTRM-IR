@@ -37,23 +37,3 @@ If your conda environment is installed elsewhere, update `$envPath` in:
 ```text
 RTRM-IR/reproduce/launch_datasets1_v77_from_checkpoint_params.ps1
 ```
-
-## Data
-
-The default data root is:
-
-```text
-RTRM-IR/datasets1
-```
-
-Expected directory layout:
-
-```text
-datasets1/
-  trainA/
-  trainB/
-  trainGT/
-  testA/
-  testB/
-  testGT/
-```
