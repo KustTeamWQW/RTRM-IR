@@ -1,4 +1,5 @@
 import json
+import sys
 from pathlib import Path
 from types import SimpleNamespace
 
@@ -6,6 +7,9 @@ import torch
 
 
 ROOT = Path(__file__).resolve().parents[1]
+if str(ROOT) not in sys.path:
+    sys.path.insert(0, str(ROOT))
+
 CKPT_NAME = "datasets1_V77_guidedK19_TirBlur31_cosPrompt_fusionRes1_scratch_bs4_ep520_gpu6_20260809_054006"
 CKPT_DIR = ROOT / "checkpoints" / CKPT_NAME
 
@@ -24,7 +28,7 @@ def main():
             "name": CKPT_NAME,
             "isTrain": True,
             "continue_train": True,
-            "epoch": "best_val",
+            "epoch": "best",
             "gpu_ids": [],
             "verbose": False,
         }
