@@ -179,6 +179,9 @@ texture_vis_supervision_mode: gradtex                       	[default: pixel]
     thermal_hot_threshold: 0.65                          
 thermal_preserve_strength: 0.1                           
            training_stage: joint                         
-         update_html_freq: 400                           	[default: 200]                         
+         update_html_freq: 400                           	[default: 200]
+                 val_freq: 1                             	[default: 5]
+           val_max_images: 64
+          val_ssim_weight: 30.0
                   verbose: False                         
 ----------------- End -------------------
