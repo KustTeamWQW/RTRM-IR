@@ -14,7 +14,7 @@ CUDA 11.7 package build
 The exported environment files are:
 
 ```text
-RTRM-IR/environment-py37.yml
+environment-py37.yml
 requirements-py37.txt
 ```
 
