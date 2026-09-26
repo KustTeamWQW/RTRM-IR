@@ -10,7 +10,7 @@ ROOT = Path(__file__).resolve().parents[1]
 if str(ROOT) not in sys.path:
     sys.path.insert(0, str(ROOT))
 
-CKPT_NAME = "datasets1_V77_guidedK19_TirBlur31_cosPrompt_fusionRes1_scratch_bs4_ep520_gpu6_20260809_054006"
+CKPT_NAME = "datasets1"
 CKPT_DIR = ROOT / "checkpoints" / CKPT_NAME
 
 
