@@ -180,11 +180,4 @@
   "thermal_preserve_strength": 0.1,
   "training_stage": "joint",
   "update_html_freq": 400,
-  "val_during_train": 1,
-  "val_freq": 1,
-  "val_max_images": 64,
-  "val_phase": "val",
-  "val_save_label": "best_val",
-  "val_ssim_weight": 30.0,
-  "verbose": false
 }
