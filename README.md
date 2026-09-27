@@ -39,6 +39,15 @@ The verified environment uses Python 3.7.1, PyTorch 1.13.1, and CUDA 11.7.
 
 ## Dataset
 
+Download `datasets1 (ODinMJ-part)` from Baidu Netdisk:
+
+- Download link: [https://pan.baidu.com/s/1l0jV0KIbeoMeq7xLhy4FNQ?pwd=2evh](https://pan.baidu.com/s/1l0jV0KIbeoMeq7xLhy4FNQ?pwd=2evh)
+- Extraction code: `2evh`
+
+After downloading, extract the archive and place or rename the dataset folder
+as `datasets1/` in the repository root. The dataset is distributed separately
+and is not tracked by Git.
+
 Place the dataset locally at `datasets1/`:
 
 ```text
