@@ -10,9 +10,10 @@ datasets2/
 reproduced_training/
 logs/
 experiments/
+outputs/
+results/
 
-# Python/runtime caches. Historical bytecode already tracked for the source
-# recovery audit remains available in Git.
+# Python/runtime caches.
 __pycache__/
 *.py[cod]
 *.pyo

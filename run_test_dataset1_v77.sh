@@ -3,17 +3,17 @@ set -euo pipefail
 
 BUNDLE_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 PYTHON_BIN="${PYTHON_BIN:-python}"
-DATASET_ROOT="${DATASET_ROOT:-../datasets1}"
+DATASET_ROOT="${DATASET_ROOT:-datasets1}"
 GPU_ID="${GPU_ID:-0}"
 CHECKPOINT_NAME="datasets1_V77_guidedK19_TirBlur31_cosPrompt_fusionRes1_scratch_bs4_ep520_gpu6_20260809_054006"
-CHECKPOINT_DIR="${BUNDLE_DIR}/checkpoint"
-PAIRED_DIR="${BUNDLE_DIR}/results/historical_source_paired_dataset1_testA"
-METRIC_DIR="${BUNDLE_DIR}/results/metrics"
-SOURCE_DIR="${BUNDLE_DIR}/historical_v77_source"
+CHECKPOINT_DIR="${BUNDLE_DIR}/checkpoints"
+PAIRED_DIR="${BUNDLE_DIR}/outputs/dataset1_v77"
+METRIC_DIR="${BUNDLE_DIR}/outputs/metrics"
+SOURCE_DIR="${BUNDLE_DIR}"
 if [[ "${DATASET_ROOT}" != /* ]]; then
   DATASET_ROOT="${BUNDLE_DIR}/${DATASET_ROOT}"
 fi
-USER_IQA_ROOT="${IQA_ROOT:-${BUNDLE_DIR}/metric_reference/IQA我自己的/IQA}"
+USER_IQA_ROOT="${IQA_ROOT:-${BUNDLE_DIR}/metrics}"
 
 if [[ "${PYTHON_BIN}" == */* && ! -x "${PYTHON_BIN}" ]] || \
    [[ "${PYTHON_BIN}" != */* && -z "$(command -v "${PYTHON_BIN}" || true)" ]]; then
@@ -56,4 +56,4 @@ echo "=== Dataset1 V77 PSNR/SSIM with IQA我自己的 ==="
   --output_csv "${METRIC_DIR}/user_iqa_historical_source_paired_fullsize.csv" \
   | tee "${METRIC_DIR}/user_iqa_historical_source_paired_fullsize.log"
 
-echo "Finished. Results are under ${BUNDLE_DIR}/results."
+echo "Finished. Results are under ${BUNDLE_DIR}/outputs."

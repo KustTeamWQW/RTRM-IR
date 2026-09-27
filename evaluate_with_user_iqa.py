@@ -137,9 +137,7 @@ def main():
     args = parser.parse_args()
 
     bundle_dir = Path(__file__).resolve().parent
-    iqa_root = args.iqa_root or str(
-        bundle_dir / 'metric_reference' / 'IQA我自己的' / 'IQA'
-    )
+    iqa_root = args.iqa_root or str(bundle_dir / 'metrics')
     calculate_psnr, calculate_ssim, avg_gradient, eme, niqe = _load_user_iqa(iqa_root)
     result = evaluate(
         Path(args.reference_dir),
