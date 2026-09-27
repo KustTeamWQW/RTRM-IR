@@ -54,7 +54,7 @@ def main():
     parser = argparse.ArgumentParser()
     parser.add_argument('--dataset-root', default='datasets1')
     parser.add_argument('--checkpoints-dir', default='reproduced_training/checkpoints')
-    parser.add_argument('--name', default='datasets1_V77_guidedK19_TirBlur31_cosPrompt_fusionRes1_scratch_bs4_ep520_gpu6_20260809_054006')
+    parser.add_argument('--name', default='datasets1_ODinMJ')
     parser.add_argument('--gpu-id', default='0', help='logical GPU id inside CUDA_VISIBLE_DEVICES')
     parser.add_argument('--dry-run', action='store_true')
     args = parser.parse_args()

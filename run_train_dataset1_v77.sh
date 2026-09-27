@@ -6,7 +6,7 @@ PYTHON_BIN="${PYTHON_BIN:-python}"
 DATASET_ROOT="${DATASET_ROOT:-datasets1}"
 GPU_ID="${GPU_ID:-0}"
 CHECKPOINTS_DIR="${CHECKPOINTS_DIR:-reproduced_training/checkpoints}"
-NAME="${NAME:-datasets1_V77_guidedK19_TirBlur31_cosPrompt_fusionRes1_scratch_bs4_ep520_gpu6_20260809_054006}"
+NAME="${NAME:-datasets1_ODinMJ}"
 
 if [[ "${PYTHON_BIN}" == */* && ! -x "${PYTHON_BIN}" ]] || \
    [[ "${PYTHON_BIN}" != */* && -z "$(command -v "${PYTHON_BIN}" || true)" ]]; then
