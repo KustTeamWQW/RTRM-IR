@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a9f9b10c-321c-4928-8618-1075b4c198b6" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2l5s2ZU9kRv0fDzcwwEMqzvHyZB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.name_extraction.executor&quot;: &quot;Run&quot;,
+    &quot;Python.process.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.wavelet.executor&quot;: &quot;Run&quot;,
+    &quot;Python.双三次插值.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;F:/Decomposition-Reconstruction Enhancement/IQA&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\infrared-enhancement\IQA" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-eebebe6c2be4-b11f5e8da5ad-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.15325.20" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a9f9b10c-321c-4928-8618-1075b4c198b6" name="Changes" comment="" />
+      <created>1724481067030</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1724481067030</updated>
+      <workItem from="1724481068334" duration="56000" />
+      <workItem from="1724483063251" duration="333000" />
+      <workItem from="1724486800488" duration="2000" />
+      <workItem from="1724486864341" duration="664000" />
+      <workItem from="1724487855756" duration="1585000" />
+      <workItem from="1725524985927" duration="1231000" />
+      <workItem from="1725527140001" duration="526000" />
+      <workItem from="1725527684932" duration="812000" />
+      <workItem from="1725675585180" duration="767000" />
+      <workItem from="1727012098503" duration="3344000" />
+      <workItem from="1727658977602" duration="7677000" />
+      <workItem from="1727860140851" duration="502000" />
+      <workItem from="1727860765416" duration="1092000" />
+      <workItem from="1727935448179" duration="4000" />
+      <workItem from="1727940251044" duration="385000" />
+      <workItem from="1727944864406" duration="1212000" />
+      <workItem from="1727955994888" duration="806000" />
+      <workItem from="1727978502497" duration="3771000" />
+      <workItem from="1728021385377" duration="820000" />
+      <workItem from="1728051303710" duration="3594000" />
+      <workItem from="1728097242040" duration="1423000" />
+      <workItem from="1728098675858" duration="4113000" />
+      <workItem from="1728232884497" duration="2000" />
+      <workItem from="1728232896594" duration="23000" />
+      <workItem from="1729947419855" duration="1674000" />
+      <workItem from="1730047797929" duration="1140000" />
+      <workItem from="1730167207180" duration="5606000" />
+      <workItem from="1733141151718" duration="3686000" />
+      <workItem from="1733193442839" duration="845000" />
+      <workItem from="1733331853523" duration="285000" />
+      <workItem from="1733379264078" duration="1624000" />
+      <workItem from="1733415174398" duration="694000" />
+      <workItem from="1733453858924" duration="739000" />
+      <workItem from="1733665522545" duration="529000" />
+      <workItem from="1733707751122" duration="745000" />
+      <workItem from="1733881291009" duration="409000" />
+      <workItem from="1733969312673" duration="427000" />
+      <workItem from="1734340938449" duration="744000" />
+      <workItem from="1741766800324" duration="1018000" />
+      <workItem from="1742353249862" duration="1063000" />
+      <workItem from="1742369838035" duration="4745000" />
+      <workItem from="1742387067717" duration="2254000" />
+      <workItem from="1742390912682" duration="374000" />
+      <workItem from="1742433934799" duration="881000" />
+      <workItem from="1742555017662" duration="621000" />
+      <workItem from="1742556075989" duration="431000" />
+      <workItem from="1742645719193" duration="332000" />
+      <workItem from="1742727141098" duration="171000" />
+      <workItem from="1742819701381" duration="2925000" />
+      <workItem from="1742826258791" duration="485000" />
+      <workItem from="1742829282544" duration="596000" />
+      <workItem from="1742830205463" duration="2635000" />
+      <workItem from="1742905677049" duration="1014000" />
+      <workItem from="1742908003461" duration="1169000" />
+      <workItem from="1743385635727" duration="5000" />
+      <workItem from="1743385813024" duration="496000" />
+      <workItem from="1743388738639" duration="1379000" />
+      <workItem from="1743390469106" duration="1984000" />
+      <workItem from="1743401956500" duration="983000" />
+      <workItem from="1743513932622" duration="1798000" />
+      <workItem from="1743525061194" duration="618000" />
+      <workItem from="1743526669700" duration="682000" />
+      <workItem from="1743561872702" duration="702000" />
+      <workItem from="1743575236786" duration="684000" />
+      <workItem from="1743577725508" duration="336000" />
+      <workItem from="1743578369307" duration="712000" />
+      <workItem from="1743580246212" duration="1281000" />
+      <workItem from="1743582006108" duration="1284000" />
+      <workItem from="1743601087885" duration="3036000" />
+      <workItem from="1743647911129" duration="1164000" />
+      <workItem from="1743664959875" duration="4319000" />
+      <workItem from="1743938072180" duration="2088000" />
+      <workItem from="1743940484271" duration="329000" />
+      <workItem from="1744164838142" duration="734000" />
+      <workItem from="1744339968040" duration="1159000" />
+      <workItem from="1749629290608" duration="2031000" />
+      <workItem from="1750696643170" duration="699000" />
+      <workItem from="1750853837973" duration="3105000" />
+      <workItem from="1751300102864" duration="4788000" />
+      <workItem from="1751334683259" duration="7563000" />
+      <workItem from="1751610886120" duration="7191000" />
+      <workItem from="1751724618422" duration="307000" />
+      <workItem from="1751855068847" duration="1551000" />
+      <workItem from="1751869269775" duration="3320000" />
+      <workItem from="1752111318866" duration="5605000" />
+      <workItem from="1752150668567" duration="1721000" />
+      <workItem from="1752331428414" duration="4428000" />
+      <workItem from="1752386361271" duration="598000" />
+      <workItem from="1752388236918" duration="603000" />
+      <workItem from="1752388852412" duration="4350000" />
+      <workItem from="1752716423215" duration="1962000" />
+      <workItem from="1752751715866" duration="1076000" />
+      <workItem from="1752753697281" duration="3087000" />
+      <workItem from="1752826488824" duration="3066000" />
+      <workItem from="1753152943022" duration="547000" />
+      <workItem from="1753175183980" duration="2536000" />
+      <workItem from="1753186026100" duration="2576000" />
+      <workItem from="1753191524080" duration="1452000" />
+      <workItem from="1782643664658" duration="6000" />
+      <workItem from="1784301745129" duration="1054000" />
+      <workItem from="1785551840362" duration="964000" />
+      <workItem from="1786341423635" duration="4649000" />
+      <workItem from="1786412747040" duration="423000" />
+      <workItem from="1786524706389" duration="194000" />
+      <workItem from="1787383455367" duration="4000" />
+      <workItem from="1787386533069" duration="1464000" />
+      <workItem from="1787388545045" duration="2458000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/process_py$test.coverage" NAME="test Coverage Results" MODIFIED="1733144204006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test_py$wavelet.coverage" NAME="wavelet Coverage Results" MODIFIED="1727860622390" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../WaveletSR" />
+    <SUITE FILE_PATH="coverage/test_py$1028_512.coverage" NAME="1028-512 Coverage Results" MODIFIED="1751336667147" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/generalization" />
+    <SUITE FILE_PATH="coverage/test_py$reshape.coverage" NAME="reshape Coverage Results" MODIFIED="1786348185786" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test_py$test.coverage" NAME="test Coverage Results" MODIFIED="1787399828814" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/process_py$.coverage" NAME="双三次插值 Coverage Results" MODIFIED="1730170495398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datasets/LT1" />
+    <SUITE FILE_PATH="coverage/process_py$name_extraction.coverage" NAME="name_extraction Coverage Results" MODIFIED="1728022151734" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datasets" />
+    <SUITE FILE_PATH="coverage/process_py$process.coverage" NAME="process Coverage Results" MODIFIED="1730168492919" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/processimage" />
+  </component>
+</project>

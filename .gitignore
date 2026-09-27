@@ -1,38 +1,27 @@
-# Python cache
+# Local datasets are intentionally excluded from the repository.
+datasets1/
+datasets2/
+**/datasets1/
+**/datasets2/
+
+# Generated preprocessing data and new training runs.
+**/preprocess_cache/
+**/processed/
+reproduced_training/
+logs/
+experiments/
+
+# Python/runtime caches. Historical bytecode already tracked for the source
+# recovery audit remains available in Git.
 __pycache__/
 *.py[cod]
 *.pyo
 
-# Training outputs
-checkpoints/
-logs/
-results/
-experiments/**/checkpoints/
-experiments/**/logs/
-experiments/**/code/**/web/
-experiments/**/code/**/runs/
-experiments/**/code/**/wandb/
-
-# Datasets and generated preprocessing caches
-datasets1/
-datasets2/
-**/preprocess_cache/
-**/processed/
-
-# Large model artifacts
-*.pth
-*.pt
-*.onnx
-*.ckpt
-
-# Local editor/runtime files
+# Local editor and temporary files.
 .codex_tmp/
 .agents/
 .claude/
 .vscode/
 .idea/
-*.log
 *.tmp
 
-# Figures generated during experiments can be large; keep source diagrams manually if needed.
-figures/*.png

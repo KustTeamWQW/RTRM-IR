@@ -1,0 +1,1293 @@
+{
+  "checkpoint": "best_val",
+  "checkpoints_dir": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/checkpoint",
+  "count": 160,
+  "dataroot": "/home/jpc/jpc/VIFPM/datasets1",
+  "name": "datasets1_V77_guidedK19_TirBlur31_cosPrompt_fusionRes1_scratch_bs4_ep520_gpu6_20260809_054006",
+  "output_dir": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA",
+  "pad_multiple": 16,
+  "phase": "test",
+  "preserve_input_size": true,
+  "records": [
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/19309.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/19309.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/19310.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/19310.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/19311.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/19311.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/19325.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/19325.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/19326.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/19326.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/19327.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/19327.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/19341.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/19341.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/19342.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/19342.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/19343.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/19343.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/19357.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/19357.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/19358.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/19358.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/19359.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/19359.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/3219.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/3219.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/3220.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/3220.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/3221.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/3221.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/3931.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/3931.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/3945.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/3945.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/3946.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/3946.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/3947.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/3947.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/3961.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/3961.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/3962.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/3962.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/3963.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/3963.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/3977.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/3977.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/3978.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/3978.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/3979.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/3979.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/3993.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/3993.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/3994.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/3994.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/3995.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/3995.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/4009.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/4009.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/4010.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/4010.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/4011.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/4011.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/4025.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/4025.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/4026.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/4026.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/4027.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/4027.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/4041.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/4041.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/4042.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/4042.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/4043.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/4043.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/4057.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/4057.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/4058.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/4058.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/4059.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/4059.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/4073.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/4073.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/4074.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/4074.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/4075.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/4075.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/4089.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/4089.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/4090.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/4090.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/4091.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/4091.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/4105.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/4105.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/4106.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/4106.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/4107.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/4107.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/4121.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/4121.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/4122.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/4122.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/4123.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/4123.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/4137.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/4137.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/4138.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/4138.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/4139.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/4139.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/4153.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/4153.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/4154.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/4154.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/4155.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/4155.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/4169.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/4169.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/4170.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/4170.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/4171.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/4171.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/4185.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/4185.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/4186.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/4186.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/4187.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/4187.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/4201.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/4201.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/4202.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/4202.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/4203.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/4203.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/4217.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/4217.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/4218.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/4218.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/4219.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/4219.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/4233.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/4233.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/4234.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/4234.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/4235.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/4235.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/4249.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/4249.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/4250.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/4250.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/4251.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/4251.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/4265.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/4265.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/4266.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/4266.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/4267.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/4267.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/4281.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/4281.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/4282.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/4282.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/4283.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/4283.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/4297.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/4297.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/4298.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/4298.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/4299.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/4299.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/4313.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/4313.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/4314.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/4314.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/4315.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/4315.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/4329.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/4329.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/4330.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/4330.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/4331.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/4331.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/4345.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/4345.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/4346.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/4346.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/4347.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/4347.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/4361.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/4361.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/4362.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/4362.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/4363.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/4363.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/4377.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/4377.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/4378.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/4378.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/4379.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/4379.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/4393.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/4393.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/4394.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/4394.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/4395.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/4395.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/4409.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/4409.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/4410.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/4410.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/4411.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/4411.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/4425.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/4425.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/4426.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/4426.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/4427.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/4427.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/4441.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/4441.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/4442.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/4442.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/4443.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/4443.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/4457.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/4457.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/4458.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/4458.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/4459.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/4459.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/4473.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/4473.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/4474.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/4474.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/4475.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/4475.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/4489.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/4489.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/4490.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/4490.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/4491.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/4491.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/4505.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/4505.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/4506.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/4506.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/4507.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/4507.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/4521.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/4521.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/4522.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/4522.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/4523.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/4523.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/4537.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/4537.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/4538.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/4538.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/4539.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/4539.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/4553.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/4553.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/4554.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/4554.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/4555.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/4555.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/4569.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/4569.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/4570.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/4570.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/4571.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/4571.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/4585.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/4585.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/4586.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/4586.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/4587.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/4587.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/4601.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/4601.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/4602.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/4602.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/4603.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/4603.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/4617.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/4617.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/4618.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/4618.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/4619.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/4619.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/4633.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/4633.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/4634.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/4634.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/4635.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/4635.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/4649.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/4649.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/4650.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/4650.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/4651.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/4651.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/4665.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/4665.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/4666.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/4666.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/4667.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/4667.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/4681.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/4681.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/4682.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/4682.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/4683.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/4683.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/4697.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/4697.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/4698.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/4698.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    },
+    {
+      "height": 512,
+      "input": "/home/jpc/jpc/VIFPM/datasets1/testA/4699.jpg",
+      "output": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_source_paired_dataset1_testA/4699.png",
+      "pad_h": 0,
+      "pad_w": 0,
+      "width": 640
+    }
+  ]
+}

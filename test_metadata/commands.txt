@@ -1,0 +1,9 @@
+# Historical dataset1 V77 paired test command
+CUDA_VISIBLE_DEVICES=6 /home/jpc/miniconda3/envs/vifpm/bin/python eval_train_matched.py --checkpoints_dir /home/jpc/jpc/VIFPM-data3/checkpoints --name datasets1_V77_guidedK19_TirBlur31_cosPrompt_fusionRes1_scratch_bs4_ep520_gpu6_20260809_054006 --dataroot /home/jpc/jpc/VIFPM-data3/datasets1 --labels best_val --phase test --gpu_ids 0 --max_images 100000 --batch_size 4 --num_threads 0
+
+# Current-bundle diagnostic rerun
+GPU_ID=0 DATASET_ROOT=/home/jpc/jpc/VIFPM/datasets1 ./run_test_dataset1_v77.sh
+
+# The final metric evaluator uses:
+# /home/jpc/jpc/VIFPM/IQA我自己的/IQA
+# and outputs PSNR, SSIM, AG, EME, and NIQE.

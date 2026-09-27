@@ -1,0 +1,976 @@
+{
+  "reference_dir": "/home/jpc/jpc/VIFPM/datasets1/testGT",
+  "result_dir": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA",
+  "reference_images": 160,
+  "result_images": 160,
+  "evaluated_images": 160,
+  "pairing": "sorted filename list, matching IQA我自己的/IQA/test.py",
+  "crop_border": 4,
+  "psnr": 32.485579151761236,
+  "ssim": 0.83698733726667,
+  "score_psnr_plus_30_ssim": 57.59519926976134,
+  "records": [
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/19309.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/19309.png",
+      "psnr": 35.126037979647045,
+      "ssim": 0.8493108495188634
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/19310.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/19310.png",
+      "psnr": 34.818401472796666,
+      "ssim": 0.8457535945824376
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/19311.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/19311.png",
+      "psnr": 34.941845121450264,
+      "ssim": 0.851989641365073
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/19325.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/19325.png",
+      "psnr": 34.01597253118442,
+      "ssim": 0.8440383085761631
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/19326.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/19326.png",
+      "psnr": 33.69343203642454,
+      "ssim": 0.8396868380389167
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/19327.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/19327.png",
+      "psnr": 33.89078049840422,
+      "ssim": 0.8406253424270808
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/19341.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/19341.png",
+      "psnr": 32.876911262445276,
+      "ssim": 0.8145996239064764
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/19342.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/19342.png",
+      "psnr": 33.454407509269856,
+      "ssim": 0.8210133218990213
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/19343.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/19343.png",
+      "psnr": 32.89271857790067,
+      "ssim": 0.7779033645746433
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/19357.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/19357.png",
+      "psnr": 33.479106976185264,
+      "ssim": 0.8240438196053849
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/19358.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/19358.png",
+      "psnr": 33.01200733638808,
+      "ssim": 0.7762129918401129
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/19359.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/19359.png",
+      "psnr": 33.459947096655476,
+      "ssim": 0.7972518622333645
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/3219.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/3219.png",
+      "psnr": 32.91068729951193,
+      "ssim": 0.8195886500601773
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/3220.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/3220.png",
+      "psnr": 32.705375669984136,
+      "ssim": 0.8168917478758567
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/3221.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/3221.png",
+      "psnr": 32.03819556905308,
+      "ssim": 0.8563558852871355
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/3931.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/3931.png",
+      "psnr": 33.978148102113046,
+      "ssim": 0.8599294321346177
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/3945.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/3945.png",
+      "psnr": 35.689230064155225,
+      "ssim": 0.8602516056825286
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/3946.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/3946.png",
+      "psnr": 35.78959536824146,
+      "ssim": 0.8684118724958125
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/3947.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/3947.png",
+      "psnr": 35.80258965669083,
+      "ssim": 0.865988609618733
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/3961.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/3961.png",
+      "psnr": 34.64231342458868,
+      "ssim": 0.8488116331838392
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/3962.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/3962.png",
+      "psnr": 34.59586134040365,
+      "ssim": 0.8481324200591421
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/3963.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/3963.png",
+      "psnr": 34.36876929835745,
+      "ssim": 0.8440407706386074
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/3977.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/3977.png",
+      "psnr": 34.0481077365652,
+      "ssim": 0.8312817584867399
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/3978.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/3978.png",
+      "psnr": 33.852915203122556,
+      "ssim": 0.8384928076482954
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/3979.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/3979.png",
+      "psnr": 34.72379148325759,
+      "ssim": 0.8532201519389201
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/3993.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/3993.png",
+      "psnr": 33.703219680403926,
+      "ssim": 0.834873045021857
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/3994.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/3994.png",
+      "psnr": 33.87487334139623,
+      "ssim": 0.8386693161378571
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/3995.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/3995.png",
+      "psnr": 33.66637849226106,
+      "ssim": 0.835937258051962
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/4009.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/4009.png",
+      "psnr": 34.6089917590197,
+      "ssim": 0.8527928744652892
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/4010.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/4010.png",
+      "psnr": 34.99220076900314,
+      "ssim": 0.8594998838543838
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/4011.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/4011.png",
+      "psnr": 34.3001483636946,
+      "ssim": 0.837486614717394
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/4025.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/4025.png",
+      "psnr": 34.24573848313328,
+      "ssim": 0.838617846262771
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/4026.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/4026.png",
+      "psnr": 34.136592918685,
+      "ssim": 0.8448939241255212
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/4027.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/4027.png",
+      "psnr": 33.925481191961026,
+      "ssim": 0.8420932278522356
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/4041.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/4041.png",
+      "psnr": 33.845418297556535,
+      "ssim": 0.8394043241035046
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/4042.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/4042.png",
+      "psnr": 33.6078629899969,
+      "ssim": 0.8340406943199153
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/4043.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/4043.png",
+      "psnr": 33.66169913517636,
+      "ssim": 0.8365696085818216
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/4057.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/4057.png",
+      "psnr": 34.232893794064786,
+      "ssim": 0.8409798139788606
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/4058.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/4058.png",
+      "psnr": 34.28283783572027,
+      "ssim": 0.8400071265594017
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/4059.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/4059.png",
+      "psnr": 34.03176714351132,
+      "ssim": 0.8355147491782299
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/4073.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/4073.png",
+      "psnr": 32.90267556652849,
+      "ssim": 0.8315819485488238
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/4074.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/4074.png",
+      "psnr": 33.11202025615327,
+      "ssim": 0.8268022756772785
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/4075.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/4075.png",
+      "psnr": 33.50256003009604,
+      "ssim": 0.8455222062232209
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/4089.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/4089.png",
+      "psnr": 32.70620451094403,
+      "ssim": 0.8416281258231603
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/4090.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/4090.png",
+      "psnr": 33.3838447586574,
+      "ssim": 0.8476337524821993
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/4091.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/4091.png",
+      "psnr": 32.544123414475756,
+      "ssim": 0.8389574932391975
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/4105.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/4105.png",
+      "psnr": 32.64871363401837,
+      "ssim": 0.8373796142317153
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/4106.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/4106.png",
+      "psnr": 32.518775999023525,
+      "ssim": 0.8338205600299043
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/4107.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/4107.png",
+      "psnr": 32.442789890517695,
+      "ssim": 0.8328018808561422
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/4121.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/4121.png",
+      "psnr": 32.27280780009343,
+      "ssim": 0.8297802461503362
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/4122.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/4122.png",
+      "psnr": 32.24541818036932,
+      "ssim": 0.8293868192919057
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/4123.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/4123.png",
+      "psnr": 32.30853829590744,
+      "ssim": 0.8302266363133651
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/4137.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/4137.png",
+      "psnr": 32.513394994750854,
+      "ssim": 0.8339344315201652
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/4138.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/4138.png",
+      "psnr": 32.47816191015784,
+      "ssim": 0.8330186518226816
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/4139.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/4139.png",
+      "psnr": 32.42815131490937,
+      "ssim": 0.8323902005153346
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/4153.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/4153.png",
+      "psnr": 32.62727933104556,
+      "ssim": 0.8380818396306728
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/4154.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/4154.png",
+      "psnr": 32.564588182476186,
+      "ssim": 0.8360991830779286
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/4155.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/4155.png",
+      "psnr": 32.59580043518752,
+      "ssim": 0.8364162986097504
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/4169.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/4169.png",
+      "psnr": 32.75166190936468,
+      "ssim": 0.8434040392554673
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/4170.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/4170.png",
+      "psnr": 32.62871941409554,
+      "ssim": 0.8421355384253696
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/4171.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/4171.png",
+      "psnr": 32.61848522455619,
+      "ssim": 0.841540337373119
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/4185.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/4185.png",
+      "psnr": 32.56776004308411,
+      "ssim": 0.83520927355741
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/4186.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/4186.png",
+      "psnr": 32.593692609745986,
+      "ssim": 0.8357238376224688
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/4187.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/4187.png",
+      "psnr": 32.59876287553662,
+      "ssim": 0.8357934542157784
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/4201.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/4201.png",
+      "psnr": 32.64032122988239,
+      "ssim": 0.8411634997181009
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/4202.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/4202.png",
+      "psnr": 32.796942522459794,
+      "ssim": 0.842939875116143
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/4203.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/4203.png",
+      "psnr": 31.66417854737627,
+      "ssim": 0.8316883467914468
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/4217.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/4217.png",
+      "psnr": 31.442483011990277,
+      "ssim": 0.828038607206716
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/4218.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/4218.png",
+      "psnr": 31.517625747844296,
+      "ssim": 0.8283911989451167
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/4219.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/4219.png",
+      "psnr": 31.510309108810333,
+      "ssim": 0.8277599232012056
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/4233.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/4233.png",
+      "psnr": 31.586349866892323,
+      "ssim": 0.8210396526659447
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/4234.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/4234.png",
+      "psnr": 31.643769595513675,
+      "ssim": 0.8219783550843819
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/4235.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/4235.png",
+      "psnr": 31.63182966817034,
+      "ssim": 0.8215164267775591
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/4249.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/4249.png",
+      "psnr": 33.252066426688856,
+      "ssim": 0.8469433879649673
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/4250.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/4250.png",
+      "psnr": 32.109614387540596,
+      "ssim": 0.8295309295793606
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/4251.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/4251.png",
+      "psnr": 31.89276406499269,
+      "ssim": 0.8247858997742452
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/4265.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/4265.png",
+      "psnr": 31.64859044815421,
+      "ssim": 0.8225765653362517
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/4266.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/4266.png",
+      "psnr": 31.629916414196177,
+      "ssim": 0.8225069355475988
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/4267.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/4267.png",
+      "psnr": 31.59371353301355,
+      "ssim": 0.8233471251944856
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/4281.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/4281.png",
+      "psnr": 31.586210285888,
+      "ssim": 0.821517160007908
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/4282.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/4282.png",
+      "psnr": 31.970829511636396,
+      "ssim": 0.8308322846148816
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/4283.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/4283.png",
+      "psnr": 32.07885906328217,
+      "ssim": 0.831851332968868
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/4297.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/4297.png",
+      "psnr": 31.747976126135388,
+      "ssim": 0.8313030346570173
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/4298.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/4298.png",
+      "psnr": 30.827646785706108,
+      "ssim": 0.8163727206919438
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/4299.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/4299.png",
+      "psnr": 30.92448291369253,
+      "ssim": 0.8168763230991863
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/4313.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/4313.png",
+      "psnr": 30.529511827935227,
+      "ssim": 0.804791209532057
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/4314.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/4314.png",
+      "psnr": 30.366889893532623,
+      "ssim": 0.8016542469227607
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/4315.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/4315.png",
+      "psnr": 30.290719437593275,
+      "ssim": 0.8013959585289268
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/4329.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/4329.png",
+      "psnr": 30.979916169052814,
+      "ssim": 0.812433163073827
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/4330.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/4330.png",
+      "psnr": 30.99123770729376,
+      "ssim": 0.8103094470356634
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/4331.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/4331.png",
+      "psnr": 31.003503081455097,
+      "ssim": 0.810065768098814
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/4345.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/4345.png",
+      "psnr": 32.48178919596978,
+      "ssim": 0.8227236342482526
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/4346.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/4346.png",
+      "psnr": 32.747374272808855,
+      "ssim": 0.8326089063543164
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/4347.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/4347.png",
+      "psnr": 32.77665233317936,
+      "ssim": 0.8321508139291648
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/4361.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/4361.png",
+      "psnr": 32.51282764215269,
+      "ssim": 0.823487630465691
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/4362.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/4362.png",
+      "psnr": 32.553622656668594,
+      "ssim": 0.8244194119070912
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/4363.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/4363.png",
+      "psnr": 32.58702869146355,
+      "ssim": 0.8250386690165459
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/4377.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/4377.png",
+      "psnr": 32.35386342565113,
+      "ssim": 0.8199397552562754
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/4378.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/4378.png",
+      "psnr": 33.51951511509155,
+      "ssim": 0.844515447979557
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/4379.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/4379.png",
+      "psnr": 32.64239055116609,
+      "ssim": 0.825780918459374
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/4393.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/4393.png",
+      "psnr": 32.34969300278085,
+      "ssim": 0.821964838676659
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/4394.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/4394.png",
+      "psnr": 32.2418515551948,
+      "ssim": 0.8209018327896197
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/4395.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/4395.png",
+      "psnr": 32.220434081242345,
+      "ssim": 0.8196863008651102
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/4409.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/4409.png",
+      "psnr": 32.161438490521846,
+      "ssim": 0.8228474325292386
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/4410.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/4410.png",
+      "psnr": 32.18767868921386,
+      "ssim": 0.8264695971324686
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/4411.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/4411.png",
+      "psnr": 32.36086481075865,
+      "ssim": 0.8332394691750684
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/4425.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/4425.png",
+      "psnr": 32.526722337369456,
+      "ssim": 0.8381072724144957
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/4426.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/4426.png",
+      "psnr": 32.4655403387448,
+      "ssim": 0.8373487945683692
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/4427.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/4427.png",
+      "psnr": 32.402280149796695,
+      "ssim": 0.8365692153240741
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/4441.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/4441.png",
+      "psnr": 32.12718854070314,
+      "ssim": 0.8320475225082734
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/4442.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/4442.png",
+      "psnr": 32.00979027265187,
+      "ssim": 0.8283408987505498
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/4443.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/4443.png",
+      "psnr": 32.00548947308322,
+      "ssim": 0.826491150213435
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/4457.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/4457.png",
+      "psnr": 32.81405272780426,
+      "ssim": 0.851919931036957
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/4458.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/4458.png",
+      "psnr": 32.64587156117472,
+      "ssim": 0.8479404224954016
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/4459.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/4459.png",
+      "psnr": 32.61398938142711,
+      "ssim": 0.847064935394713
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/4473.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/4473.png",
+      "psnr": 32.02158662750204,
+      "ssim": 0.8370370469358211
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/4474.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/4474.png",
+      "psnr": 32.02194399631077,
+      "ssim": 0.8372363885821624
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/4475.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/4475.png",
+      "psnr": 31.88731387032131,
+      "ssim": 0.8353362897937616
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/4489.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/4489.png",
+      "psnr": 31.791812711609197,
+      "ssim": 0.8380022278907425
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/4490.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/4490.png",
+      "psnr": 30.526115039529014,
+      "ssim": 0.8396280273732236
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/4491.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/4491.png",
+      "psnr": 30.573168433164362,
+      "ssim": 0.8347590308012873
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/4505.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/4505.png",
+      "psnr": 33.25252356171664,
+      "ssim": 0.8793797529003954
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/4506.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/4506.png",
+      "psnr": 32.16714663303984,
+      "ssim": 0.8540396939055586
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/4507.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/4507.png",
+      "psnr": 31.65379100698249,
+      "ssim": 0.841241393689698
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/4521.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/4521.png",
+      "psnr": 32.09351522850878,
+      "ssim": 0.8602625348639257
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/4522.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/4522.png",
+      "psnr": 32.04629249186711,
+      "ssim": 0.8604405816582282
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/4523.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/4523.png",
+      "psnr": 32.046887042134045,
+      "ssim": 0.8596720990089487
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/4537.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/4537.png",
+      "psnr": 31.881298768817725,
+      "ssim": 0.849577682016362
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/4538.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/4538.png",
+      "psnr": 31.923070163125207,
+      "ssim": 0.8509911598440981
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/4539.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/4539.png",
+      "psnr": 32.60477136538893,
+      "ssim": 0.8665833272431579
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/4553.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/4553.png",
+      "psnr": 32.17130260109093,
+      "ssim": 0.877508662139367
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/4554.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/4554.png",
+      "psnr": 31.425665459202392,
+      "ssim": 0.8581646237150843
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/4555.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/4555.png",
+      "psnr": 31.403180288994083,
+      "ssim": 0.8552196252407168
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/4569.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/4569.png",
+      "psnr": 31.4804492429238,
+      "ssim": 0.8592461733337681
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/4570.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/4570.png",
+      "psnr": 31.451501430515126,
+      "ssim": 0.8564213095453669
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/4571.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/4571.png",
+      "psnr": 31.54077241851596,
+      "ssim": 0.8591644087128164
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/4585.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/4585.png",
+      "psnr": 31.298492573562488,
+      "ssim": 0.8533037696473763
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/4586.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/4586.png",
+      "psnr": 31.35656302569377,
+      "ssim": 0.8558965597178697
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/4587.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/4587.png",
+      "psnr": 31.30249111238936,
+      "ssim": 0.8557163017247117
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/4601.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/4601.png",
+      "psnr": 30.144402762662452,
+      "ssim": 0.8565348248914527
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/4602.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/4602.png",
+      "psnr": 30.25879182329282,
+      "ssim": 0.8574665425288918
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/4603.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/4603.png",
+      "psnr": 30.701440435507152,
+      "ssim": 0.8505566410713495
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/4617.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/4617.png",
+      "psnr": 31.02356419388252,
+      "ssim": 0.8690502449485266
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/4618.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/4618.png",
+      "psnr": 31.275051909246937,
+      "ssim": 0.8705093524421498
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/4619.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/4619.png",
+      "psnr": 31.445192157819143,
+      "ssim": 0.874557232922707
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/4633.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/4633.png",
+      "psnr": 29.76577937184664,
+      "ssim": 0.8358957441331113
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/4634.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/4634.png",
+      "psnr": 30.0226623267594,
+      "ssim": 0.8412093118615728
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/4635.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/4635.png",
+      "psnr": 29.925146129448596,
+      "ssim": 0.8380540109174454
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/4649.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/4649.png",
+      "psnr": 32.095812913771425,
+      "ssim": 0.8148483791997901
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/4650.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/4650.png",
+      "psnr": 32.22416510983272,
+      "ssim": 0.8035482672769567
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/4651.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/4651.png",
+      "psnr": 32.49380948660965,
+      "ssim": 0.8199716626795782
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/4665.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/4665.png",
+      "psnr": 31.782801225028617,
+      "ssim": 0.8430428199455036
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/4666.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/4666.png",
+      "psnr": 31.751623071392892,
+      "ssim": 0.8483754729682067
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/4667.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/4667.png",
+      "psnr": 32.18181876254483,
+      "ssim": 0.8338524996299372
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/4681.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/4681.png",
+      "psnr": 31.689355456523238,
+      "ssim": 0.8429468549421593
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/4682.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/4682.png",
+      "psnr": 31.438272368475527,
+      "ssim": 0.834644972767043
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/4683.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/4683.png",
+      "psnr": 32.24395419858361,
+      "ssim": 0.8492039140788249
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/4697.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/4697.png",
+      "psnr": 32.1192339508952,
+      "ssim": 0.8411730825468656
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/4698.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/4698.png",
+      "psnr": 32.08453586471391,
+      "ssim": 0.8343732480808467
+    },
+    {
+      "reference": "/home/jpc/jpc/VIFPM/datasets1/testGT/4699.jpg",
+      "result": "/home/jpc/jpc/VIFPM/github_dataset1_V77_test_repro/results/historical_dataset1_testA/4699.png",
+      "psnr": 32.45920560463049,
+      "ssim": 0.8436401775413721
+    }
+  ],
+  "label": "historical_dataset1_v77_saved_outputs_user_iqa",
+  "metric_implementation": "/home/jpc/jpc/VIFPM/IQA我自己的/IQA"
+}

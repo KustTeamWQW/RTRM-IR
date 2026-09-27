@@ -1,0 +1,12 @@
+{
+  "batch_size": 4,
+  "best_val_epoch": 454,
+  "checkpoint_label": "best_val",
+  "epoch": 454,
+  "images": 64,
+  "phase": "val",
+  "psnr": 32.74354166511017,
+  "requested_images": 64,
+  "score": 57.84156242241001,
+  "ssim": 0.8366006919099946
+}
