@@ -1,11 +1,11 @@
 #!/usr/bin/env python
-"""Evaluate saved outputs with the user's IQA implementation.
+"""Evaluate saved outputs with the metric implementation bundled in metrics/.
 
-This follows IQA我自己的/IQA/test.py:
+The evaluation follows metrics/test.py:
   - cv2.imread(...), default BGR/color loading
   - sorted image lists
   - crop_border=4
-  - IQA我自己的/IQA/psnr_ssim.py for PSNR and SSIM
+  - metrics/psnr_ssim.py for PSNR and SSIM
   - grayscale conversion for AG, EME, and NIQE
 """
 
@@ -113,7 +113,7 @@ def evaluate(
         'reference_images': len(reference_files),
         'result_images': len(result_files),
         'evaluated_images': len(records),
-        'pairing': 'sorted filename list, matching IQA我自己的/IQA/test.py',
+        'pairing': 'sorted filename list, matching metrics/test.py',
         'crop_border': int(crop_border),
         'psnr': float(np.mean(psnr_values)),
         'ssim': float(np.mean(ssim_values)),

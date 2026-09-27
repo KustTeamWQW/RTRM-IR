@@ -1,9 +1,9 @@
 #!/usr/bin/env python
-"""Launch the historical V77 training entry point from this bundle.
+"""Launch Dataset1 V77 training with the saved checkpoint options.
 
-The checkpoint's train_opt.json is the source of the training arguments. Only
-runtime paths and the visible GPU are overridden so the bundle can be moved to
-another machine without editing the historical source tree.
+The checkpoint's train_opt.json supplies the training arguments. Runtime paths
+and the visible GPU are overridden so the project can run from another machine
+without editing source files.
 """
 
 import argparse

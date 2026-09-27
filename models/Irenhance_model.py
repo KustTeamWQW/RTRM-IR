@@ -11,7 +11,7 @@ from . import HCCM
 from models.fusion import Fusion
 from models.texture_frontend import LearnableGaborWaveletFrontend
 
-# ======== [寮曞叆鏍囧噯鐨勭涓夋柟 SSIM 搴揮 ========
+# Optional third-party SSIM implementation.
 try:
     import pytorch_msssim
 except ImportError:

@@ -45,7 +45,7 @@ CUDA_VISIBLE_DEVICES="${GPU_ID}" PYTHONPATH="${SOURCE_DIR}" \
   --pad_multiple 16 \
   | tee "${METRIC_DIR}/save_paired_test_outputs.log"
 
-echo "=== Dataset1 V77 PSNR/SSIM with IQA我自己的 ==="
+echo "=== Dataset1 V77 image quality metrics ==="
 "${PYTHON_BIN}" "${BUNDLE_DIR}/evaluate_with_user_iqa.py" \
   --iqa_root "${USER_IQA_ROOT}" \
   --reference_dir "${DATASET_ROOT}/testGT" \

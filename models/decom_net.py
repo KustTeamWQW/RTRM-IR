@@ -353,7 +353,7 @@ def decom_loss_fn(I, S, T, lambda_recon=1.0, lambda_corr=0.5, lambda_reg=0.1):
     corr_coef = corr / (torch.sqrt(S_var * T_var) + 1e-8)
     corr_loss = corr_coef.abs().mean()
 
-    # 3. Regularity: 鏀圭敤姊害鎯╃綒锛堥紦鍔卞钩婊戯級鑰屼笉鏄?L1锛堜細鍘嬪埗骞呭害锛?    # 璁＄畻 T 鐨勬搴︼紝榧撳姳骞虫粦浣嗕笉鎯╃綒骞呭害
+    # 3. Smooth the texture without suppressing its amplitude.
     T_dy = torch.abs(T[:, :, 1:, :] - T[:, :, :-1, :])
     T_dx = torch.abs(T[:, :, :, 1:] - T[:, :, :, :-1])
     reg_loss = T_dy.mean() + T_dx.mean()
