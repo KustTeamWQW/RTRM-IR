@@ -104,7 +104,7 @@ legacy_radiation_from_decom: 0
                     model: Irenhance                     
                model_type: swin2_full                    	[default: swin]
                n_layers_D: 3                             
-                     name: datasets1_V77_guidedK19_TirBlur31_cosPrompt_fusionRes1_scratch_bs4_ep520_gpu6_20260809_054006	[default: Irenhance]
+                     name: datasets1_ODinMJ                 	[default: Irenhance]
                       ndf: 64                            
                      netD: basic                         
                       ngf: 64                            

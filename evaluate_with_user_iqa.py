@@ -130,7 +130,7 @@ def main():
     parser.add_argument('--iqa_root', default='')
     parser.add_argument('--reference_dir', required=True)
     parser.add_argument('--result_dir', required=True)
-    parser.add_argument('--label', default='dataset1_v77')
+    parser.add_argument('--label', default='dataset1_odinmj')
     parser.add_argument('--crop_border', type=int, default=4)
     parser.add_argument('--output_json', required=True)
     parser.add_argument('--output_csv', required=True)

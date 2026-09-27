@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-"""Launch Dataset1 V77 training with the saved checkpoint options.
+"""Launch Dataset1 ODinMJ training with the saved checkpoint options.
 
 The checkpoint's train_opt.json supplies the training arguments. Runtime paths
 and the visible GPU are overridden so the project can run from another machine
@@ -90,7 +90,7 @@ def main():
         from options.train_options import TrainOptions
 
         parsed = TrainOptions().gather_options()
-        print('V77_OPTIONS_VALID ' + str(len(vars(parsed))))
+        print('ODINMJ_OPTIONS_VALID ' + str(len(vars(parsed))))
         print(_shell_join(sys.argv))
         return
     runpy.run_path(str(source_dir / 'train.py'), run_name='__main__')

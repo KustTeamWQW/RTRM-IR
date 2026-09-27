@@ -7,7 +7,7 @@ DATASET_ROOT="${DATASET_ROOT:-datasets1}"
 GPU_ID="${GPU_ID:-0}"
 CHECKPOINT_NAME="datasets1_ODinMJ"
 CHECKPOINT_DIR="${BUNDLE_DIR}/checkpoints"
-PAIRED_DIR="${BUNDLE_DIR}/outputs/dataset1_v77"
+PAIRED_DIR="${BUNDLE_DIR}/outputs/dataset1_odinmj"
 METRIC_DIR="${BUNDLE_DIR}/outputs/metrics"
 SOURCE_DIR="${BUNDLE_DIR}"
 if [[ "${DATASET_ROOT}" != /* ]]; then
@@ -31,7 +31,7 @@ fi
 
 mkdir -p "${PAIRED_DIR}" "${METRIC_DIR}"
 
-echo "=== Dataset1 V77 paired full-size inference ==="
+echo "=== Dataset1 ODinMJ paired full-size inference ==="
 CUDA_VISIBLE_DEVICES="${GPU_ID}" PYTHONPATH="${SOURCE_DIR}" \
   "${PYTHON_BIN}" "${SOURCE_DIR}/scripts/save_paired_test_outputs.py" \
   --checkpoints_dir "${CHECKPOINT_DIR}" \
@@ -45,7 +45,7 @@ CUDA_VISIBLE_DEVICES="${GPU_ID}" PYTHONPATH="${SOURCE_DIR}" \
   --pad_multiple 16 \
   | tee "${METRIC_DIR}/save_paired_test_outputs.log"
 
-echo "=== Dataset1 V77 image quality metrics ==="
+echo "=== Dataset1 ODinMJ image quality metrics ==="
 "${PYTHON_BIN}" "${BUNDLE_DIR}/evaluate_with_user_iqa.py" \
   --iqa_root "${USER_IQA_ROOT}" \
   --reference_dir "${DATASET_ROOT}/testGT" \

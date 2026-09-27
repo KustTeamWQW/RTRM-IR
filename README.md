@@ -1,4 +1,4 @@
-# RTRM-IR Dataset1 V77 Reproduction
+# RTRM-IR Dataset1 ODinMJ Reproduction
 
 ## Repository layout
 
@@ -11,12 +11,12 @@ RTRM-IR/
 |-- util/                   project utilities
 |-- IQA/                    project PSNR/SSIM helpers
 |-- metrics/                requested five-metric implementation
-|-- checkpoints/            Dataset1 V77 best_val weights
+|-- checkpoints/            Dataset1 ODinMJ best_val weights
 |-- train.py                training entry point
-|-- train_from_bundle.py    V77 configuration launcher
+|-- train_from_bundle.py    ODinMJ configuration launcher
 |-- evaluate_with_user_iqa.py
-|-- run_train_dataset1_v77.sh
-`-- run_test_dataset1_v77.sh
+|-- run_train_dataset1_odinmj.sh
+`-- run_test_dataset1_odinmj.sh
 ```
 
 Generated files are written to `outputs/` or `reproduced_training/`; both are
@@ -67,12 +67,12 @@ From the repository root:
 
 ```bash
 conda activate py3.7
-./run_test_dataset1_v77.sh
+./run_test_dataset1_odinmj.sh
 ```
 
 Example with explicit paths:
 
 ```bash
-DATASET_ROOT=/path/to/datasets1 GPU_ID=0 ./run_test_dataset1_v77.sh
+DATASET_ROOT=/path/to/datasets1 GPU_ID=0 ./run_test_dataset1_odinmj.sh
 ```
 

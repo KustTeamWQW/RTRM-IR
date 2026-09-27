@@ -64,7 +64,7 @@ def _save_tensor(tensor, save_path):
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument('--checkpoints_dir', default=os.path.join(REPO_ROOT, 'Ablation', 'M1', 'checkpoints'))
-    parser.add_argument('--name', default='datasets2_V77_ablation_M1_corrected_ep200_gpu1_bs10')
+    parser.add_argument('--name', default='datasets2_ablation_M1_corrected_ep200_gpu1_bs10')
     parser.add_argument('--phase', default='test')
     parser.add_argument('--results_dir', default=os.path.join(REPO_ROOT, 'Ablation', 'M1', 'final_texture_reconstruction'))
     parser.add_argument('--gpu_ids', default='-1')
