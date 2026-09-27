@@ -186,8 +186,10 @@ class BaseModel(ABC):
                 else:
                     net_cpu = net
 
-                # Save the network to the disk
-                torch.save(net_cpu.state_dict(), save_path)
+                # A file object keeps checkpoint I/O working on Windows paths
+                # that contain non-ASCII characters.
+                with open(save_path, 'wb') as checkpoint_file:
+                    torch.save(net_cpu.state_dict(), checkpoint_file)
 
                 # If the model was on CUDA, move it back
                 if len(self.gpu_ids) > 0 and torch.cuda.is_available():
@@ -229,7 +231,8 @@ class BaseModel(ABC):
                     continue
                 # if you are using PyTorch newer than 0.4 (e.g., built from
                 # GitHub source), you can remove str() on self.device
-                state_dict = torch.load(load_path, map_location=str(self.device))
+                with open(load_path, 'rb') as checkpoint_file:
+                    state_dict = torch.load(checkpoint_file, map_location=str(self.device))
                 if hasattr(state_dict, '_metadata'):
                     del state_dict._metadata
 

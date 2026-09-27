@@ -2,7 +2,7 @@
 """Evaluate saved outputs with the metric implementation bundled in metrics/.
 
 The evaluation follows metrics/test.py:
-  - cv2.imread(...), default BGR/color loading
+  - OpenCV default BGR/color decoding
   - sorted image lists
   - crop_border=4
   - metrics/psnr_ssim.py for PSNR and SSIM
@@ -47,6 +47,11 @@ def _image_files(directory):
     )
 
 
+def _imread(path):
+    encoded = np.fromfile(str(path), dtype=np.uint8)
+    return cv2.imdecode(encoded, cv2.IMREAD_COLOR)
+
+
 def evaluate(
     reference_dir,
     result_dir,
@@ -68,8 +73,8 @@ def evaluate(
     records = []
 
     for ref_path, result_path in zip(reference_files[:count], result_files[:count]):
-        ref = cv2.imread(str(ref_path))
-        result = cv2.imread(str(result_path))
+        ref = _imread(ref_path)
+        result = _imread(result_path)
         if ref is None or result is None:
             continue
         if ref.shape != result.shape:
