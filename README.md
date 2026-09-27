@@ -1,9 +1,5 @@
 # RTRM-IR Dataset1 V77 Reproduction
 
-This repository contains the runnable RTRM-IR source code, the Dataset1 V77
-`best_val` checkpoint, and the files required to reproduce the recorded test
-metrics. The training and test datasets are intentionally excluded.
-
 ## Repository layout
 
 ```text
