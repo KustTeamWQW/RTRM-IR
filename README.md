@@ -12,8 +12,6 @@ RTRM-IR/
 |-- IQA/                    project PSNR/SSIM helpers
 |-- metrics/                requested five-metric implementation
 |-- checkpoints/            Dataset1 V77 best_val weights
-|-- reference/              preserved outputs and metric records
-|-- reproducibility/        hashes, historical commands, and notes
 |-- train.py                training entry point
 |-- train_from_bundle.py    V77 configuration launcher
 |-- evaluate_with_user_iqa.py
